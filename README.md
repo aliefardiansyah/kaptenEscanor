@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaptenEscanor
+- 👋 Hi, I’m Muhammad Alief Ardiansyah
 - 👀 I’m interested in Data Science and Web Developer
 - 🌱 I’m currently learning Javascript and python
 - 💞️ I’m looking to collaborate on ...
